@@ -1,0 +1,13 @@
+C:\Users\vanya\source\repos\gitIvanGorbatenko\gitIvanGorbatenko\bin\Debug\netcoreapp3.1\gitIvanGorbatenko.exe
+C:\Users\vanya\source\repos\gitIvanGorbatenko\gitIvanGorbatenko\bin\Debug\netcoreapp3.1\gitIvanGorbatenko.deps.json
+C:\Users\vanya\source\repos\gitIvanGorbatenko\gitIvanGorbatenko\bin\Debug\netcoreapp3.1\gitIvanGorbatenko.runtimeconfig.json
+C:\Users\vanya\source\repos\gitIvanGorbatenko\gitIvanGorbatenko\bin\Debug\netcoreapp3.1\gitIvanGorbatenko.runtimeconfig.dev.json
+C:\Users\vanya\source\repos\gitIvanGorbatenko\gitIvanGorbatenko\bin\Debug\netcoreapp3.1\gitIvanGorbatenko.dll
+C:\Users\vanya\source\repos\gitIvanGorbatenko\gitIvanGorbatenko\bin\Debug\netcoreapp3.1\gitIvanGorbatenko.pdb
+C:\Users\vanya\source\repos\gitIvanGorbatenko\gitIvanGorbatenko\obj\Debug\netcoreapp3.1\gitIvanGorbatenko.csprojAssemblyReference.cache
+C:\Users\vanya\source\repos\gitIvanGorbatenko\gitIvanGorbatenko\obj\Debug\netcoreapp3.1\gitIvanGorbatenko.AssemblyInfoInputs.cache
+C:\Users\vanya\source\repos\gitIvanGorbatenko\gitIvanGorbatenko\obj\Debug\netcoreapp3.1\gitIvanGorbatenko.AssemblyInfo.cs
+C:\Users\vanya\source\repos\gitIvanGorbatenko\gitIvanGorbatenko\obj\Debug\netcoreapp3.1\gitIvanGorbatenko.csproj.CoreCompileInputs.cache
+C:\Users\vanya\source\repos\gitIvanGorbatenko\gitIvanGorbatenko\obj\Debug\netcoreapp3.1\gitIvanGorbatenko.dll
+C:\Users\vanya\source\repos\gitIvanGorbatenko\gitIvanGorbatenko\obj\Debug\netcoreapp3.1\gitIvanGorbatenko.pdb
+C:\Users\vanya\source\repos\gitIvanGorbatenko\gitIvanGorbatenko\obj\Debug\netcoreapp3.1\gitIvanGorbatenko.genruntimeconfig.cache
